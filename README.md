@@ -1,12 +1,14 @@
 <h1> Hi! My name is Alice :) </h1>
 
 <div>
-  <a href="https://github.com/Alice-ts">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Alice-ts&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-ts&layout=compact&langs_count=7&theme=react" />
-  <br>
-  <br>
   <img align="center" width="400" height="360" src="https://c.tenor.com/kBhihKytDZsAAAAC/alice-in-wonder-land-welcome.gif">
+  <br>
+  <a href="https://github.com/Alice-ts">
+  <br>
+  <img height="100em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Alice-ts&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="100em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-ts&layout=compact&langs_count=7&theme=react" />
+  <br>
+  <br>
 </div>
  <br>
  
